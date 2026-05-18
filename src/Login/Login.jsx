@@ -13,6 +13,9 @@ const Login = () => {
             <div className="inputs">
 
                 <div className="input">
+
+
+
                     <img src="" alt="" />
                     <input type="text" />
                 </div>

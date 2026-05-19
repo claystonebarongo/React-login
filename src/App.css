@@ -150,6 +150,8 @@
 
   &::before,
   &::after {
+
+    
     content: '';
     position: absolute;
     top: -4.5px;
@@ -162,7 +164,7 @@
     left: 0;
     border-left-color: var(--border);
 
-    
+
   }
   &::after {
     right: 0;

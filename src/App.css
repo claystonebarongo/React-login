@@ -149,10 +149,12 @@
     height: 48px;
   }
 
-  
+
 }
 
 .ticks {
+
+  
   position: relative;
   width: 100%;
 

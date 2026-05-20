@@ -154,7 +154,7 @@
 
 .ticks {
 
-  
+
   position: relative;
   width: 100%;
 
@@ -177,7 +177,11 @@
 
   }
   &::after {
+
+    
     right: 0;
     border-right-color: var(--border);
   }
+
+
 }

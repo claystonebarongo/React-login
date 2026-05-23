@@ -32,6 +32,8 @@ const Login = () => {
 
 
                     <input type="email" />
+
+
                 </div>
 
                 <div className="input">

@@ -7,6 +7,8 @@ const Login = () => {
                 <div className="text">
                     Sign Up
                 </div>
+
+
                 <div className="underline"></div>
             </div>
 

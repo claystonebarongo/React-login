@@ -12,6 +12,8 @@ const Login = () => {
             <div className="header">
 
                 <div className="text">
+
+
                     Sign Up
                 </div>
 
